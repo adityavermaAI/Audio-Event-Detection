@@ -1,18 +1,15 @@
 # Audio Event Detection using CNN
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <p align="center">
     <a href="https://github.com/adityavermaAI/Audio-Event-Detection"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/adityavermaAI/Audio-Event-Detection">View Demo</a>
+    <a href="https://user-images.githubusercontent.com/72017583/114261809-58770180-99fa-11eb-94d8-6144e3da168e.mp4">View Demo</a>
     ·
     <a href="https://github.com/adityavermaAI/Audio-Event-Detection/issues">Report Bug</a>
     ·
     <a href="https://github.com/adityavermaAI/Audio-Event-Detection/issues">Request Feature</a>
 </p>
-
 
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -28,7 +25,7 @@
 
 ## About The Project
 
-![Demo Video](https://imgflip.com/gif/550j7p)
+![Demo Video](https://user-images.githubusercontent.com/72017583/114262596-88280880-99fe-11eb-8221-f85d786add35.gif)
 
 Audio Event Detection is the task of recognizing sound events like trigger words, instrument, etc in an audio recording.
 
@@ -75,12 +72,14 @@ Then we calculated the Short Time Fourier Transform of the given data. After thi
 
 ## Evaluation
 
-![image](https://user-images.githubusercontent.com/72017583/114197120-a98de380-996f-11eb-9d9a-24cd60fedf59.png)
+![image](https://user-images.githubusercontent.com/72017583/114261224-04b6e900-99f7-11eb-9545-e366394340d3.png)
 
-![image](https://user-images.githubusercontent.com/72017583/114197429-f5d92380-996f-11eb-94cc-74443dbb09e7.png)
+
+![image](https://user-images.githubusercontent.com/72017583/114261313-7bec7d00-99f7-11eb-841d-90bcc60880dc.png)
+
 
 ## Contact
 
 E-Mail - adityaverma.ml@gmail.com
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+https://imgflip.com/gif/550j7p

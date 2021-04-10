@@ -81,3 +81,5 @@ Then we calculated the Short Time Fourier Transform of the given data. After thi
 ## Contact
 
 E-Mail - adityaverma.ml@gmail.com
+
+LinkdIn - [www.linkedin.com/in/adityavermaai](www.linkedin.com/in/adityavermaai)

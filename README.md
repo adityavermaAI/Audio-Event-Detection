@@ -64,9 +64,9 @@ Figure below shows the architecture of the model used in this project.
 
 ## Training
 
-The audio files in the given dataset were read using the Librosa library at the sampling rate of 22.5KHz. We allowed maximum audio length of 4s at the time of reading files which made the maximum no. of samples present in one file = 88200 . For each file, if file size was less than 88200, then we have used zero padding to make them equal to 88200 samples.
+The audio files in the given dataset were read using the Librosa library at the sampling rate of 22.5KHz. I allowed maximum audio length of 4s at the time of reading files which made the maximum no. of samples present in one file = 88200 . For each file, if file size was less than 88200, then I have used zero padding to make them equal to 88200 samples.
 
-Then we calculated the Short Time Fourier Transform of the given data. After this, we get the spectrogram with size 513X401 of the given audio files. We resampled them to the size 171X 401.Then we used this data as input to our model along with the class labels for training purpose.
+Then I calculated the Short Time Fourier Transform of the given data. After this, I got the spectrogram with size 513X401 of the given audio files. I resampled them to the size 171X 401.Then I used this data as input to our model along with the class labels for training purpose.
 
 
 

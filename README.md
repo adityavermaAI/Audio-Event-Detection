@@ -25,8 +25,6 @@
 
 ## About The Project
 
-![Demo Video](https://user-images.githubusercontent.com/72017583/114262596-88280880-99fe-11eb-8221-f85d786add35.gif)
-
 ![AudioEventDetection](https://user-images.githubusercontent.com/72017583/114263181-b4915400-9a01-11eb-989d-98c843bff763.gif)
 
 Audio Event Detection is the task of recognizing sound events like trigger words, instrument, etc in an audio recording.
@@ -83,5 +81,3 @@ Then we calculated the Short Time Fourier Transform of the given data. After thi
 ## Contact
 
 E-Mail - adityaverma.ml@gmail.com
-
-https://imgflip.com/gif/550j7p

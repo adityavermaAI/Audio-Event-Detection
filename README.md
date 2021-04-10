@@ -27,6 +27,8 @@
 
 ![Demo Video](https://user-images.githubusercontent.com/72017583/114262596-88280880-99fe-11eb-8221-f85d786add35.gif)
 
+![AudioEventDetection](https://user-images.githubusercontent.com/72017583/114263181-b4915400-9a01-11eb-989d-98c843bff763.gif)
+
 Audio Event Detection is the task of recognizing sound events like trigger words, instrument, etc in an audio recording.
 
 Recognizing sounds events like alarm and glass breaking can be used for surveillance. Environmental sounds events detection can be used for monitoring biodiversity studies.
